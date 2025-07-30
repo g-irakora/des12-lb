@@ -1,5 +1,5 @@
 {
-    "name": "aime-lb",
+    "name": "des12-lb",
     "version": "1.0.0",
     "description": "Simple load balancer for Web01 & Web02",
     "main": "server.js",
