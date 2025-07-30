@@ -3,8 +3,8 @@ const http = require("http");
 
 // Your two deployed app URLs from Render:
 const servers = [
-  https://web01-des.onrender.com,
-  https://web02-des.onrender.com/
+  "https://web01-des.onrender.com/",
+  "https://web02-des.onrender.com/"
 ];
 
 let current = 0;
